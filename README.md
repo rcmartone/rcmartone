@@ -1,5 +1,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73318&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+" alt="Typing SVG" /></a></p>
+<p> </p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas a procura de novas oportunidades no setor de Técnologia</p>
 <h1> </h1>
 <h3>🌱 Linguagens de programação 🌱</h3>
 <div>
@@ -21,11 +23,15 @@
    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  
 </div>
 <h1> </h1>
-<h3 align="left">Conecte-se comigo</h3>
+<h3 align="left">Me encontre</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rcmartone/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rcmartone/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="50" /></a>
+  <a href="https://steamcommunity.com/id/rcmartone" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="" height="30" width="80" /></a>
 </p>
 <!--
 **rcmartone/rcmartone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
